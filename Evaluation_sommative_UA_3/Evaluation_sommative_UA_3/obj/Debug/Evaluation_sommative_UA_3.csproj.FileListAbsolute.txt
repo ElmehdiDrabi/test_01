@@ -1,0 +1,7 @@
+C:\Users\elmeh\OneDrive\Desktop\Evaluation_sommative_UA_3\Evaluation_sommative_UA_3\obj\Debug\Evaluation_sommative_UA_3.csproj.AssemblyReference.cache
+C:\Users\elmeh\OneDrive\Desktop\Evaluation_sommative_UA_3\Evaluation_sommative_UA_3\obj\Debug\Evaluation_sommative_UA_3.csproj.CoreCompileInputs.cache
+C:\Users\elmeh\OneDrive\Desktop\Evaluation_sommative_UA_3\Evaluation_sommative_UA_3\bin\Debug\Evaluation_sommative_UA_3.exe.config
+C:\Users\elmeh\OneDrive\Desktop\Evaluation_sommative_UA_3\Evaluation_sommative_UA_3\bin\Debug\Evaluation_sommative_UA_3.exe
+C:\Users\elmeh\OneDrive\Desktop\Evaluation_sommative_UA_3\Evaluation_sommative_UA_3\bin\Debug\Evaluation_sommative_UA_3.pdb
+C:\Users\elmeh\OneDrive\Desktop\Evaluation_sommative_UA_3\Evaluation_sommative_UA_3\obj\Debug\Evaluation_sommative_UA_3.exe
+C:\Users\elmeh\OneDrive\Desktop\Evaluation_sommative_UA_3\Evaluation_sommative_UA_3\obj\Debug\Evaluation_sommative_UA_3.pdb

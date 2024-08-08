@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|c:\\users\\elmeh\\onedrive\\desktop\\evaluation_sommative_ua_3\\evaluation_sommative_ua_3\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|solutionrelative:evaluation_sommative_ua_3\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|c:\\users\\elmeh\\onedrive\\desktop\\evaluation_sommative_ua_3\\evaluation_sommative_ua_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|solutionrelative:evaluation_sommative_ua_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|c:\\users\\elmeh\\onedrive\\desktop\\evaluation_sommative_ua_3\\evaluation_sommative_ua_3\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|solutionrelative:evaluation_sommative_ua_3\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|c:\\users\\elmeh\\onedrive\\desktop\\evaluation_sommative_ua_3\\evaluation_sommative_ua_3\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|solutionrelative:evaluation_sommative_ua_3\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|c:\\users\\elmeh\\onedrive\\desktop\\evaluation_sommative_ua_3\\evaluation_sommative_ua_3\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|solutionrelative:evaluation_sommative_ua_3\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|c:\\users\\elmeh\\onedrive\\desktop\\evaluation_sommative_ua_3\\evaluation_sommative_ua_3\\contractlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|solutionrelative:evaluation_sommative_ua_3\\contractlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|c:\\users\\elmeh\\onedrive\\desktop\\evaluation_sommative_ua_3\\evaluation_sommative_ua_3\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9AB8D-ED0A-4F81-AEDF-EDCBDCB3AA7F}|Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3.csproj|solutionrelative:evaluation_sommative_ua_3\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moto.cs",
+              "DocumentMoniker": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\moto.cs",
+              "RelativeDocumentMoniker": "Evaluation_sommative_UA_3\\moto.cs",
+              "ToolTip": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\moto.cs",
+              "RelativeToolTip": "Evaluation_sommative_UA_3\\moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:32:02.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "voiture.cs",
+              "DocumentMoniker": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\voiture.cs",
+              "RelativeDocumentMoniker": "Evaluation_sommative_UA_3\\voiture.cs",
+              "ToolTip": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\voiture.cs",
+              "RelativeToolTip": "Evaluation_sommative_UA_3\\voiture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:27:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "camion.cs",
+              "DocumentMoniker": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\camion.cs",
+              "RelativeDocumentMoniker": "Evaluation_sommative_UA_3\\camion.cs",
+              "ToolTip": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\camion.cs",
+              "RelativeToolTip": "Evaluation_sommative_UA_3\\camion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:32:51.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\Vehicule.cs",
+              "RelativeDocumentMoniker": "Evaluation_sommative_UA_3\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\Vehicule.cs",
+              "RelativeToolTip": "Evaluation_sommative_UA_3\\Vehicule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:42:18.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContractLocation.cs",
+              "DocumentMoniker": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\ContractLocation.cs",
+              "RelativeDocumentMoniker": "Evaluation_sommative_UA_3\\ContractLocation.cs",
+              "ToolTip": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\ContractLocation.cs",
+              "RelativeToolTip": "Evaluation_sommative_UA_3\\ContractLocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:41:42.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\Program.cs",
+              "RelativeDocumentMoniker": "Evaluation_sommative_UA_3\\Program.cs",
+              "ToolTip": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\Program.cs",
+              "RelativeToolTip": "Evaluation_sommative_UA_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:18:27.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\Client.cs",
+              "RelativeDocumentMoniker": "Evaluation_sommative_UA_3\\Client.cs",
+              "ToolTip": "C:\\Users\\elmeh\\OneDrive\\Desktop\\Evaluation_sommative_UA_3\\Evaluation_sommative_UA_3\\Client.cs",
+              "RelativeToolTip": "Evaluation_sommative_UA_3\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:41:10.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
